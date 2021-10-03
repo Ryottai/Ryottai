@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 <!-- GitHub Stats Card -->
 <a href="https://github.com/Ryottai/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ryottai&show_icons=true&include_all_commits=true&count_private=true&theme=vue" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ryottai&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark" />
 </a>
 <!-- Top Languages Card -->
 <a href="https://github.com/Ryottai/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryottai&layout=compact&card_width=250&theme=vue" /> 
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryottai&layout=compact&card_width=250&theme=vue-dark" /> 
 </a>
 
 
