@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- GitHub Stats Card -->
 <a href="https://github.com/Ryottai/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ryottai&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ryottai&show_icons=true&disable_animations=true" />
 </a>
 <!-- Top Languages Card -->
 <a href="https://github.com/Ryottai/github-readme-stats">
