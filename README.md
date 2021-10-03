@@ -16,12 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <!-- GitHub Stats Card -->
-[![Ryottai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryottai)](https://github.com/Ryottai/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryottai&show_icons=true)
 
 <!-- Top Languages Card -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryottai)](https://github.com/Ryottai/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryottai&layout=compact)](https://github.com/Ryottai/github-readme-stats)
 
 
 
