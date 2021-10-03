@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </a>
 <!-- Top Languages Card -->
 <a href="https://github.com/Ryottai/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryottai&layout=compact&card_width=100" /> 
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryottai&layout=compact&card_width=500" /> 
 </a>
 
 
